@@ -1,0 +1,6 @@
+@CommanderGQL_HostAddress = http://localhost:5229
+
+GET {{CommanderGQL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
